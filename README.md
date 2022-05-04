@@ -1,3 +1,6 @@
+# :exclamation:[NOTICE] THIS PACKAGE IS NOT MAINTAINED ANYMORE:exclamation:
+# NOW MAINTAINED IN [gherlint/gherlint-vscode](https://github.com/gherlint/gherlint-vscode)
+
 <h2 align="center">
   <br>
     <img src="./img/logo.png" alt="logo" width="200">
